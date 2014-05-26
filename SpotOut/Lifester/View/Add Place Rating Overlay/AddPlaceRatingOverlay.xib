@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4510" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UIViewController">
+            <connections>
+                <outlet property="view" destination="x7I-Uo-DUQ" id="4ys-dn-IwS"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="x7I-Uo-DUQ" customClass="AddPlaceRatingOverlay">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" alpha="0.94999998807907104" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="black-background-i5.png" id="cPV-jv-gyW">
+                    <rect key="frame" x="0.0" y="-19" width="320" height="606"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="BHe-F0-m8F">
+                    <rect key="frame" x="10" y="66" width="300" height="130"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </imageView>
+                <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="15" id="sAZ-xt-ERo">
+                    <rect key="frame" x="50" y="104" width="220" height="34"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="tintColor" red="0.96862745100000003" green="0.58039215690000001" blue="0.1176470588" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="minimumTrackTintColor" red="0.98431372549999996" green="0.69019607839999997" blue="0.25098039220000001" alpha="1" colorSpace="deviceRGB"/>
+                    <color key="maximumTrackTintColor" red="0.65490196079999996" green="0.66274509800000003" blue="0.67450980390000004" alpha="1" colorSpace="calibratedRGB"/>
+                    <connections>
+                        <action selector="sliderValueChangeAction:" destination="x7I-Uo-DUQ" eventType="valueChanged" id="qdY-XD-cj6"/>
+                    </connections>
+                </slider>
+                <view contentMode="scaleToFill" id="sbw-b6-LHk" userLabel="Tips View">
+                    <rect key="frame" x="20" y="146" width="280" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tip-box.png" id="T0d-am-8Nt">
+                            <rect key="frame" x="0.0" y="0.0" width="280" height="40"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        </imageView>
+                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="8bO-7p-VY5" customClass="SSTextView">
+                            <rect key="frame" x="10" y="3" width="265" height="35"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="textColor" red="0.75686274509999996" green="0.75686274509999996" blue="0.75686274509999996" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences" autocorrectionType="no"/>
+                            <connections>
+                                <outlet property="delegate" destination="x7I-Uo-DUQ" id="bgX-ez-BWI"/>
+                            </connections>
+                        </textView>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="bHT-7j-27V">
+                    <rect key="frame" x="95" y="514" width="130" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <button alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="hA7-zk-3RE">
+                            <rect key="frame" x="0.0" y="0.0" width="130" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
+                            <state key="normal" title="Done" backgroundImage="Done_button.png">
+                                <color key="titleColor" red="0.34509803919999998" green="0.34901960780000002" blue="0.35686274509999999" alpha="1" colorSpace="deviceRGB"/>
+                            </state>
+                            <state key="highlighted" backgroundImage="Done_button.png"/>
+                            <connections>
+                                <action selector="btnDoneOverlayAction:" destination="x7I-Uo-DUQ" eventType="touchUpInside" id="5aw-o0-OuI"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <connections>
+                <outlet property="imvWhiteBox" destination="BHe-F0-m8F" id="pq8-r5-9Tb"/>
+                <outlet property="rateSlider" destination="sAZ-xt-ERo" id="e8Y-yc-usz"/>
+                <outlet property="tipsView" destination="sbw-b6-LHk" id="2pJ-SR-OFo"/>
+                <outlet property="toolBar" destination="yj9-g1-6Gb" id="pCn-fz-c3L"/>
+                <outlet property="txtComment" destination="8bO-7p-VY5" id="dxE-Ce-4Gf"/>
+                <outlet property="viewDoneButton" destination="bHT-7j-27V" id="UbI-sO-dSC"/>
+            </connections>
+        </view>
+        <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="yj9-g1-6Gb">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+            <items>
+                <barButtonItem style="plain" systemItem="flexibleSpace" id="RTH-w4-5g0"/>
+                <barButtonItem title="Done" id="C9U-IH-td9">
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <action selector="btnDoneHideKetboardAction:" destination="x7I-Uo-DUQ" id="eg0-8K-leF"/>
+                    </connections>
+                </barButtonItem>
+            </items>
+            <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+        </toolbar>
+    </objects>
+    <resources>
+        <image name="Done_button.png" width="130" height="44"/>
+        <image name="black-background-i5.png" width="640" height="1136"/>
+        <image name="tip-box.png" width="280" height="40"/>
+    </resources>
+</document>

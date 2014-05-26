@@ -1,0 +1,4040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Ccy</key>
+		<string>AFN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>971</string>
+		<key>CcyNm</key>
+		<string>Afghani</string>
+		<key>CtryNm</key>
+		<string>AFGHANISTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>ÅLAND ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ALL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>008</string>
+		<key>CcyNm</key>
+		<string>Lek</string>
+		<key>CtryNm</key>
+		<string>ALBANIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>012</string>
+		<key>CcyNm</key>
+		<string>Algerian Dinar</string>
+		<key>CtryNm</key>
+		<string>ALGERIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>AMERICAN SAMOA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>ANDORRA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AOA</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>973</string>
+		<key>CcyNm</key>
+		<string>Kwanza</string>
+		<key>CtryNm</key>
+		<string>ANGOLA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>ANGUILLA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>CcyNm</key>
+		<string>No universal currency</string>
+		<key>CtryNm</key>
+		<string>ANTARCTICA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>ANTIGUA AND BARBUDA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ARS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>032</string>
+		<key>CcyNm</key>
+		<string>Argentine Peso</string>
+		<key>CtryNm</key>
+		<string>ARGENTINA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AMD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>051</string>
+		<key>CcyNm</key>
+		<string>Armenian Dram</string>
+		<key>CtryNm</key>
+		<string>ARMENIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AWG</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>533</string>
+		<key>CcyNm</key>
+		<string>Aruban Florin</string>
+		<key>CtryNm</key>
+		<string>ARUBA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>AUSTRALIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>AUSTRIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AZN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>944</string>
+		<key>CcyNm</key>
+		<string>Azerbaijanian Manat</string>
+		<key>CtryNm</key>
+		<string>AZERBAIJAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BSD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>044</string>
+		<key>CcyNm</key>
+		<string>Bahamian Dollar</string>
+		<key>CtryNm</key>
+		<string>BAHAMAS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BHD</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>048</string>
+		<key>CcyNm</key>
+		<string>Bahraini Dinar</string>
+		<key>CtryNm</key>
+		<string>BAHRAIN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BDT</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>050</string>
+		<key>CcyNm</key>
+		<string>Taka</string>
+		<key>CtryNm</key>
+		<string>BANGLADESH</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BBD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>052</string>
+		<key>CcyNm</key>
+		<string>Barbados Dollar</string>
+		<key>CtryNm</key>
+		<string>BARBADOS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BYR</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>974</string>
+		<key>CcyNm</key>
+		<string>Belarussian Ruble</string>
+		<key>CtryNm</key>
+		<string>BELARUS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>BELGIUM</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>084</string>
+		<key>CcyNm</key>
+		<string>Belize Dollar</string>
+		<key>CtryNm</key>
+		<string>BELIZE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>BENIN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BMD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>060</string>
+		<key>CcyNm</key>
+		<string>Bermudian Dollar</string>
+		<key>CtryNm</key>
+		<string>BERMUDA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BTN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>064</string>
+		<key>CcyNm</key>
+		<string>Ngultrum</string>
+		<key>CtryNm</key>
+		<string>BHUTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>INR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>356</string>
+		<key>CcyNm</key>
+		<string>Indian Rupee</string>
+		<key>CtryNm</key>
+		<string>BHUTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BOB</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>068</string>
+		<key>CcyNm</key>
+		<string>Boliviano</string>
+		<key>CtryNm</key>
+		<string>BOLIVIA, PLURINATIONAL STATE OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BOV</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>984</string>
+		<key>CcyNm</key>
+		<string>Mvdol</string>
+		<key>CtryNm</key>
+		<string>BOLIVIA, PLURINATIONAL STATE OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>BONAIRE, SINT EUSTATIUS AND SABA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BAM</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>977</string>
+		<key>CcyNm</key>
+		<string>Convertible Mark</string>
+		<key>CtryNm</key>
+		<string>BOSNIA AND HERZEGOVINA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BWP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>072</string>
+		<key>CcyNm</key>
+		<string>Pula</string>
+		<key>CtryNm</key>
+		<string>BOTSWANA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NOK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>578</string>
+		<key>CcyNm</key>
+		<string>Norwegian Krone</string>
+		<key>CtryNm</key>
+		<string>BOUVET ISLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BRL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>986</string>
+		<key>CcyNm</key>
+		<string>Brazilian Real</string>
+		<key>CtryNm</key>
+		<string>BRAZIL</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>BRITISH INDIAN OCEAN TERRITORY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BND</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>096</string>
+		<key>CcyNm</key>
+		<string>Brunei Dollar</string>
+		<key>CtryNm</key>
+		<string>BRUNEI DARUSSALAM</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BGN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>975</string>
+		<key>CcyNm</key>
+		<string>Bulgarian Lev</string>
+		<key>CtryNm</key>
+		<string>BULGARIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>BURKINA FASO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>BIF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>108</string>
+		<key>CcyNm</key>
+		<string>Burundi Franc</string>
+		<key>CtryNm</key>
+		<string>BURUNDI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KHR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>116</string>
+		<key>CcyNm</key>
+		<string>Riel</string>
+		<key>CtryNm</key>
+		<string>CAMBODIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>CAMEROON</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CAD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>124</string>
+		<key>CcyNm</key>
+		<string>Canadian Dollar</string>
+		<key>CtryNm</key>
+		<string>CANADA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CVE</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>132</string>
+		<key>CcyNm</key>
+		<string>Cape Verde Escudo</string>
+		<key>CtryNm</key>
+		<string>CAPE VERDE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KYD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>136</string>
+		<key>CcyNm</key>
+		<string>Cayman Islands Dollar</string>
+		<key>CtryNm</key>
+		<string>CAYMAN ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>CENTRAL AFRICAN REPUBLIC</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>CHAD</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CLF</string>
+		<key>CcyMnrUnts</key>
+		<string>4</string>
+		<key>CcyNbr</key>
+		<string>990</string>
+		<key>CcyNm</key>
+		<string>Unidad de Fomento</string>
+		<key>CtryNm</key>
+		<string>CHILE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CLP</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>152</string>
+		<key>CcyNm</key>
+		<string>Chilean Peso</string>
+		<key>CtryNm</key>
+		<string>CHILE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CNY</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>156</string>
+		<key>CcyNm</key>
+		<string>Yuan Renminbi</string>
+		<key>CtryNm</key>
+		<string>CHINA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>CHRISTMAS ISLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>COCOS (KEELING) ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>COP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>170</string>
+		<key>CcyNm</key>
+		<string>Colombian Peso</string>
+		<key>CtryNm</key>
+		<string>COLOMBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>COU</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>970</string>
+		<key>CcyNm</key>
+		<string>Unidad de Valor Real</string>
+		<key>CtryNm</key>
+		<string>COLOMBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KMF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>174</string>
+		<key>CcyNm</key>
+		<string>Comoro Franc</string>
+		<key>CtryNm</key>
+		<string>COMOROS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>CONGO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CDF</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>976</string>
+		<key>CcyNm</key>
+		<string>Congolese Franc</string>
+		<key>CtryNm</key>
+		<string>CONGO, THE DEMOCRATIC REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>554</string>
+		<key>CcyNm</key>
+		<string>New Zealand Dollar</string>
+		<key>CtryNm</key>
+		<string>COOK ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CRC</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>188</string>
+		<key>CcyNm</key>
+		<string>Costa Rican Colon</string>
+		<key>CtryNm</key>
+		<string>COSTA RICA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>CÔTE D'IVOIRE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>HRK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>191</string>
+		<key>CcyNm</key>
+		<string>Croatian Kuna</string>
+		<key>CtryNm</key>
+		<string>CROATIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CUC</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>931</string>
+		<key>CcyNm</key>
+		<string>Peso Convertible</string>
+		<key>CtryNm</key>
+		<string>CUBA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CUP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>192</string>
+		<key>CcyNm</key>
+		<string>Cuban Peso</string>
+		<key>CtryNm</key>
+		<string>CUBA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ANG</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>532</string>
+		<key>CcyNm</key>
+		<string>Netherlands Antillean Guilder</string>
+		<key>CtryNm</key>
+		<string>CURAÇAO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>CYPRUS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CZK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>203</string>
+		<key>CcyNm</key>
+		<string>Czech Koruna</string>
+		<key>CtryNm</key>
+		<string>CZECH REPUBLIC</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DKK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>208</string>
+		<key>CcyNm</key>
+		<string>Danish Krone</string>
+		<key>CtryNm</key>
+		<string>DENMARK</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DJF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>262</string>
+		<key>CcyNm</key>
+		<string>Djibouti Franc</string>
+		<key>CtryNm</key>
+		<string>DJIBOUTI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>DOMINICA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DOP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>214</string>
+		<key>CcyNm</key>
+		<string>Dominican Peso</string>
+		<key>CtryNm</key>
+		<string>DOMINICAN REPUBLIC</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>ECUADOR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EGP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>818</string>
+		<key>CcyNm</key>
+		<string>Egyptian Pound</string>
+		<key>CtryNm</key>
+		<string>EGYPT</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SVC</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>222</string>
+		<key>CcyNm</key>
+		<string>El Salvador Colon</string>
+		<key>CtryNm</key>
+		<string>EL SALVADOR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>EL SALVADOR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>EQUATORIAL GUINEA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ERN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>232</string>
+		<key>CcyNm</key>
+		<string>Nakfa</string>
+		<key>CtryNm</key>
+		<string>ERITREA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>ESTONIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ETB</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>230</string>
+		<key>CcyNm</key>
+		<string>Ethiopian Birr</string>
+		<key>CtryNm</key>
+		<string>ETHIOPIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>EUROPEAN UNION</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>FKP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>238</string>
+		<key>CcyNm</key>
+		<string>Falkland Islands Pound</string>
+		<key>CtryNm</key>
+		<string>FALKLAND ISLANDS (MALVINAS)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DKK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>208</string>
+		<key>CcyNm</key>
+		<string>Danish Krone</string>
+		<key>CtryNm</key>
+		<string>FAROE ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>FJD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>242</string>
+		<key>CcyNm</key>
+		<string>Fiji Dollar</string>
+		<key>CtryNm</key>
+		<string>FIJI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>FINLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>FRANCE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>FRENCH GUIANA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XPF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>953</string>
+		<key>CcyNm</key>
+		<string>CFP Franc</string>
+		<key>CtryNm</key>
+		<string>FRENCH POLYNESIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>FRENCH SOUTHERN TERRITORIES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XAF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>950</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BEAC</string>
+		<key>CtryNm</key>
+		<string>GABON</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GMD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>270</string>
+		<key>CcyNm</key>
+		<string>Dalasi</string>
+		<key>CtryNm</key>
+		<string>GAMBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GEL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>981</string>
+		<key>CcyNm</key>
+		<string>Lari</string>
+		<key>CtryNm</key>
+		<string>GEORGIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>GERMANY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GHS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>936</string>
+		<key>CcyNm</key>
+		<string>Ghana Cedi</string>
+		<key>CtryNm</key>
+		<string>GHANA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GIP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>292</string>
+		<key>CcyNm</key>
+		<string>Gibraltar Pound</string>
+		<key>CtryNm</key>
+		<string>GIBRALTAR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>GREECE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>DKK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>208</string>
+		<key>CcyNm</key>
+		<string>Danish Krone</string>
+		<key>CtryNm</key>
+		<string>GREENLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>GRENADA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>GUADELOUPE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>GUAM</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GTQ</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>320</string>
+		<key>CcyNm</key>
+		<string>Quetzal</string>
+		<key>CtryNm</key>
+		<string>GUATEMALA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GBP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>826</string>
+		<key>CcyNm</key>
+		<string>Pound Sterling</string>
+		<key>CtryNm</key>
+		<string>GUERNSEY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GNF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>324</string>
+		<key>CcyNm</key>
+		<string>Guinea Franc</string>
+		<key>CtryNm</key>
+		<string>GUINEA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>GUINEA-BISSAU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GYD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>328</string>
+		<key>CcyNm</key>
+		<string>Guyana Dollar</string>
+		<key>CtryNm</key>
+		<string>GUYANA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>HTG</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>332</string>
+		<key>CcyNm</key>
+		<string>Gourde</string>
+		<key>CtryNm</key>
+		<string>HAITI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>HAITI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>HEARD ISLAND AND McDONALD ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>HOLY SEE (VATICAN CITY STATE)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>HNL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>340</string>
+		<key>CcyNm</key>
+		<string>Lempira</string>
+		<key>CtryNm</key>
+		<string>HONDURAS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>HKD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>344</string>
+		<key>CcyNm</key>
+		<string>Hong Kong Dollar</string>
+		<key>CtryNm</key>
+		<string>HONG KONG</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>HUF</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>348</string>
+		<key>CcyNm</key>
+		<string>Forint</string>
+		<key>CtryNm</key>
+		<string>HUNGARY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ISK</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>352</string>
+		<key>CcyNm</key>
+		<string>Iceland Krona</string>
+		<key>CtryNm</key>
+		<string>ICELAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>INR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>356</string>
+		<key>CcyNm</key>
+		<string>Indian Rupee</string>
+		<key>CtryNm</key>
+		<string>INDIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>IDR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>360</string>
+		<key>CcyNm</key>
+		<string>Rupiah</string>
+		<key>CtryNm</key>
+		<string>INDONESIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XDR</string>
+		<key>CcyMnrUnts</key>
+		<string>N.A.</string>
+		<key>CcyNbr</key>
+		<string>960</string>
+		<key>CcyNm</key>
+		<string>SDR (Special Drawing Right)</string>
+		<key>CtryNm</key>
+		<string>INTERNATIONAL MONETARY FUND (IMF)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>IRR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>364</string>
+		<key>CcyNm</key>
+		<string>Iranian Rial</string>
+		<key>CtryNm</key>
+		<string>IRAN, ISLAMIC REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>IQD</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>368</string>
+		<key>CcyNm</key>
+		<string>Iraqi Dinar</string>
+		<key>CtryNm</key>
+		<string>IRAQ</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>IRELAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GBP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>826</string>
+		<key>CcyNm</key>
+		<string>Pound Sterling</string>
+		<key>CtryNm</key>
+		<string>ISLE OF MAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ILS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>376</string>
+		<key>CcyNm</key>
+		<string>New Israeli Sheqel</string>
+		<key>CtryNm</key>
+		<string>ISRAEL</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>ITALY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>JMD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>388</string>
+		<key>CcyNm</key>
+		<string>Jamaican Dollar</string>
+		<key>CtryNm</key>
+		<string>JAMAICA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>JPY</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>392</string>
+		<key>CcyNm</key>
+		<string>Yen</string>
+		<key>CtryNm</key>
+		<string>JAPAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GBP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>826</string>
+		<key>CcyNm</key>
+		<string>Pound Sterling</string>
+		<key>CtryNm</key>
+		<string>JERSEY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>JOD</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>400</string>
+		<key>CcyNm</key>
+		<string>Jordanian Dinar</string>
+		<key>CtryNm</key>
+		<string>JORDAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KZT</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>398</string>
+		<key>CcyNm</key>
+		<string>Tenge</string>
+		<key>CtryNm</key>
+		<string>KAZAKHSTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KES</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>404</string>
+		<key>CcyNm</key>
+		<string>Kenyan Shilling</string>
+		<key>CtryNm</key>
+		<string>KENYA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>KIRIBATI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KPW</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>408</string>
+		<key>CcyNm</key>
+		<string>North Korean Won</string>
+		<key>CtryNm</key>
+		<string>KOREA, DEMOCRATIC PEOPLE'92S REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KRW</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>410</string>
+		<key>CcyNm</key>
+		<string>Won</string>
+		<key>CtryNm</key>
+		<string>KOREA, REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KWD</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>414</string>
+		<key>CcyNm</key>
+		<string>Kuwaiti Dinar</string>
+		<key>CtryNm</key>
+		<string>KUWAIT</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>KGS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>417</string>
+		<key>CcyNm</key>
+		<string>Som</string>
+		<key>CtryNm</key>
+		<string>KYRGYZSTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LAK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>418</string>
+		<key>CcyNm</key>
+		<string>Kip</string>
+		<key>CtryNm</key>
+		<string>LAO PEOPLE’S DEMOCRATIC REPUBLIC</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>LATVIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LBP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>422</string>
+		<key>CcyNm</key>
+		<string>Lebanese Pound</string>
+		<key>CtryNm</key>
+		<string>LEBANON</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LSL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>426</string>
+		<key>CcyNm</key>
+		<string>Loti</string>
+		<key>CtryNm</key>
+		<string>LESOTHO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ZAR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>710</string>
+		<key>CcyNm</key>
+		<string>Rand</string>
+		<key>CtryNm</key>
+		<string>LESOTHO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LRD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>430</string>
+		<key>CcyNm</key>
+		<string>Liberian Dollar</string>
+		<key>CtryNm</key>
+		<string>LIBERIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LYD</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>434</string>
+		<key>CcyNm</key>
+		<string>Libyan Dinar</string>
+		<key>CtryNm</key>
+		<string>LIBYA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CHF</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>756</string>
+		<key>CcyNm</key>
+		<string>Swiss Franc</string>
+		<key>CtryNm</key>
+		<string>LIECHTENSTEIN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LTL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>440</string>
+		<key>CcyNm</key>
+		<string>Lithuanian Litas</string>
+		<key>CtryNm</key>
+		<string>LITHUANIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>LUXEMBOURG</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MOP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>446</string>
+		<key>CcyNm</key>
+		<string>Pataca</string>
+		<key>CtryNm</key>
+		<string>MACAO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MKD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>807</string>
+		<key>CcyNm</key>
+		<string>Denar</string>
+		<key>CtryNm</key>
+		<string>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MGA</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>969</string>
+		<key>CcyNm</key>
+		<string>Malagasy Ariary</string>
+		<key>CtryNm</key>
+		<string>MADAGASCAR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MWK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>454</string>
+		<key>CcyNm</key>
+		<string>Kwacha</string>
+		<key>CtryNm</key>
+		<string>MALAWI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MYR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>458</string>
+		<key>CcyNm</key>
+		<string>Malaysian Ringgit</string>
+		<key>CtryNm</key>
+		<string>MALAYSIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MVR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>462</string>
+		<key>CcyNm</key>
+		<string>Rufiyaa</string>
+		<key>CtryNm</key>
+		<string>MALDIVES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>MALI</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>MALTA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>MARSHALL ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>MARTINIQUE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MRO</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>478</string>
+		<key>CcyNm</key>
+		<string>Ouguiya</string>
+		<key>CtryNm</key>
+		<string>MAURITANIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>480</string>
+		<key>CcyNm</key>
+		<string>Mauritius Rupee</string>
+		<key>CtryNm</key>
+		<string>MAURITIUS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>MAYOTTE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XUA</string>
+		<key>CcyMnrUnts</key>
+		<string>N.A.</string>
+		<key>CcyNbr</key>
+		<string>965</string>
+		<key>CcyNm</key>
+		<string>ADB Unit of Account</string>
+		<key>CtryNm</key>
+		<string>MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MXN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>484</string>
+		<key>CcyNm</key>
+		<string>Mexican Peso</string>
+		<key>CtryNm</key>
+		<string>MEXICO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MXV</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>979</string>
+		<key>CcyNm</key>
+		<string>Mexican Unidad de Inversion (UDI)</string>
+		<key>CtryNm</key>
+		<string>MEXICO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>MICRONESIA, FEDERATED STATES OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MDL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>498</string>
+		<key>CcyNm</key>
+		<string>Moldovan Leu</string>
+		<key>CtryNm</key>
+		<string>MOLDOVA, REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>MONACO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MNT</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>496</string>
+		<key>CcyNm</key>
+		<string>Tugrik</string>
+		<key>CtryNm</key>
+		<string>MONGOLIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>MONTENEGRO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>MONTSERRAT</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MAD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>504</string>
+		<key>CcyNm</key>
+		<string>Moroccan Dirham</string>
+		<key>CtryNm</key>
+		<string>MOROCCO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MZN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>943</string>
+		<key>CcyNm</key>
+		<string>Mozambique Metical</string>
+		<key>CtryNm</key>
+		<string>MOZAMBIQUE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MMK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>104</string>
+		<key>CcyNm</key>
+		<string>Kyat</string>
+		<key>CtryNm</key>
+		<string>MYANMAR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NAD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>516</string>
+		<key>CcyNm</key>
+		<string>Namibia Dollar</string>
+		<key>CtryNm</key>
+		<string>NAMIBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ZAR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>710</string>
+		<key>CcyNm</key>
+		<string>Rand</string>
+		<key>CtryNm</key>
+		<string>NAMIBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>NAURU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NPR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>524</string>
+		<key>CcyNm</key>
+		<string>Nepalese Rupee</string>
+		<key>CtryNm</key>
+		<string>NEPAL</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>NETHERLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XPF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>953</string>
+		<key>CcyNm</key>
+		<string>CFP Franc</string>
+		<key>CtryNm</key>
+		<string>NEW CALEDONIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>554</string>
+		<key>CcyNm</key>
+		<string>New Zealand Dollar</string>
+		<key>CtryNm</key>
+		<string>NEW ZEALAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NIO</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>558</string>
+		<key>CcyNm</key>
+		<string>Cordoba Oro</string>
+		<key>CtryNm</key>
+		<string>NICARAGUA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>NIGER</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NGN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>566</string>
+		<key>CcyNm</key>
+		<string>Naira</string>
+		<key>CtryNm</key>
+		<string>NIGERIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>554</string>
+		<key>CcyNm</key>
+		<string>New Zealand Dollar</string>
+		<key>CtryNm</key>
+		<string>NIUE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>NORFOLK ISLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>NORTHERN MARIANA ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NOK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>578</string>
+		<key>CcyNm</key>
+		<string>Norwegian Krone</string>
+		<key>CtryNm</key>
+		<string>NORWAY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>OMR</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>512</string>
+		<key>CcyNm</key>
+		<string>Rial Omani</string>
+		<key>CtryNm</key>
+		<string>OMAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PKR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>586</string>
+		<key>CcyNm</key>
+		<string>Pakistan Rupee</string>
+		<key>CtryNm</key>
+		<string>PAKISTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>PALAU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>CcyNm</key>
+		<string>No universal currency</string>
+		<key>CtryNm</key>
+		<string>PALESTINE, STATE OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PAB</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>590</string>
+		<key>CcyNm</key>
+		<string>Balboa</string>
+		<key>CtryNm</key>
+		<string>PANAMA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>PANAMA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PGK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>598</string>
+		<key>CcyNm</key>
+		<string>Kina</string>
+		<key>CtryNm</key>
+		<string>PAPUA NEW GUINEA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PYG</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>600</string>
+		<key>CcyNm</key>
+		<string>Guarani</string>
+		<key>CtryNm</key>
+		<string>PARAGUAY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PEN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>604</string>
+		<key>CcyNm</key>
+		<string>Nuevo Sol</string>
+		<key>CtryNm</key>
+		<string>PERU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PHP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>608</string>
+		<key>CcyNm</key>
+		<string>Philippine Peso</string>
+		<key>CtryNm</key>
+		<string>PHILIPPINES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>554</string>
+		<key>CcyNm</key>
+		<string>New Zealand Dollar</string>
+		<key>CtryNm</key>
+		<string>PITCAIRN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>PLN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>985</string>
+		<key>CcyNm</key>
+		<string>Zloty</string>
+		<key>CtryNm</key>
+		<string>POLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>PORTUGAL</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>PUERTO RICO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>QAR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>634</string>
+		<key>CcyNm</key>
+		<string>Qatari Rial</string>
+		<key>CtryNm</key>
+		<string>QATAR</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>R'c9UNION</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>RON</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>946</string>
+		<key>CcyNm</key>
+		<string>New Romanian Leu</string>
+		<key>CtryNm</key>
+		<string>ROMANIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>RUB</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>643</string>
+		<key>CcyNm</key>
+		<string>Russian Ruble</string>
+		<key>CtryNm</key>
+		<string>RUSSIAN FEDERATION</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>RWF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>646</string>
+		<key>CcyNm</key>
+		<string>Rwanda Franc</string>
+		<key>CtryNm</key>
+		<string>RWANDA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SAINT BARTHÉLEMY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SHP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>654</string>
+		<key>CcyNm</key>
+		<string>Saint Helena Pound</string>
+		<key>CtryNm</key>
+		<string>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>SAINT KITTS AND NEVIS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>SAINT LUCIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SAINT MARTIN (FRENCH PART)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SAINT PIERRE AND MIQUELON</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XCD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>951</string>
+		<key>CcyNm</key>
+		<string>East Caribbean Dollar</string>
+		<key>CtryNm</key>
+		<string>SAINT VINCENT AND THE GRENADINES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>WST</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>882</string>
+		<key>CcyNm</key>
+		<string>Tala</string>
+		<key>CtryNm</key>
+		<string>SAMOA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SAN MARINO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>STD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>678</string>
+		<key>CcyNm</key>
+		<string>Dobra</string>
+		<key>CtryNm</key>
+		<string>SAO TOME AND PRINCIPE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SAR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>682</string>
+		<key>CcyNm</key>
+		<string>Saudi Riyal</string>
+		<key>CtryNm</key>
+		<string>SAUDI ARABIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>SENEGAL</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>RSD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>941</string>
+		<key>CcyNm</key>
+		<string>Serbian Dinar</string>
+		<key>CtryNm</key>
+		<string>SERBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SCR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>690</string>
+		<key>CcyNm</key>
+		<string>Seychelles Rupee</string>
+		<key>CtryNm</key>
+		<string>SEYCHELLES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SLL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>694</string>
+		<key>CcyNm</key>
+		<string>Leone</string>
+		<key>CtryNm</key>
+		<string>SIERRA LEONE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SGD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>702</string>
+		<key>CcyNm</key>
+		<string>Singapore Dollar</string>
+		<key>CtryNm</key>
+		<string>SINGAPORE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ANG</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>532</string>
+		<key>CcyNm</key>
+		<string>Netherlands Antillean Guilder</string>
+		<key>CtryNm</key>
+		<string>SINT MAARTEN (DUTCH PART)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XSU</string>
+		<key>CcyMnrUnts</key>
+		<string>N.A.</string>
+		<key>CcyNbr</key>
+		<string>994</string>
+		<key>CcyNm</key>
+		<string>Sucre</string>
+		<key>CtryNm</key>
+		<string>
+SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"
+</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SLOVAKIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SLOVENIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SBD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>090</string>
+		<key>CcyNm</key>
+		<string>Solomon Islands Dollar</string>
+		<key>CtryNm</key>
+		<string>SOLOMON ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SOS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>706</string>
+		<key>CcyNm</key>
+		<string>Somali Shilling</string>
+		<key>CtryNm</key>
+		<string>SOMALIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ZAR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>710</string>
+		<key>CcyNm</key>
+		<string>Rand</string>
+		<key>CtryNm</key>
+		<string>SOUTH AFRICA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>CcyNm</key>
+		<string>No universal currency</string>
+		<key>CtryNm</key>
+		<string>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SSP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>728</string>
+		<key>CcyNm</key>
+		<string>South Sudanese Pound</string>
+		<key>CtryNm</key>
+		<string>SOUTH SUDAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>SPAIN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>LKR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>144</string>
+		<key>CcyNm</key>
+		<string>Sri Lanka Rupee</string>
+		<key>CtryNm</key>
+		<string>SRI LANKA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SDG</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>938</string>
+		<key>CcyNm</key>
+		<string>Sudanese Pound</string>
+		<key>CtryNm</key>
+		<string>SUDAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SRD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>968</string>
+		<key>CcyNm</key>
+		<string>Surinam Dollar</string>
+		<key>CtryNm</key>
+		<string>SURINAME</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NOK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>578</string>
+		<key>CcyNm</key>
+		<string>Norwegian Krone</string>
+		<key>CtryNm</key>
+		<string>SVALBARD AND JAN MAYEN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SZL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>748</string>
+		<key>CcyNm</key>
+		<string>Lilangeni</string>
+		<key>CtryNm</key>
+		<string>SWAZILAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SEK</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>752</string>
+		<key>CcyNm</key>
+		<string>Swedish Krona</string>
+		<key>CtryNm</key>
+		<string>SWEDEN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CHE</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>947</string>
+		<key>CcyNm</key>
+		<string>WIR Euro</string>
+		<key>CtryNm</key>
+		<string>SWITZERLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CHF</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>756</string>
+		<key>CcyNm</key>
+		<string>Swiss Franc</string>
+		<key>CtryNm</key>
+		<string>SWITZERLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>CHW</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>948</string>
+		<key>CcyNm</key>
+		<string>WIR Franc</string>
+		<key>CtryNm</key>
+		<string>SWITZERLAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>SYP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>760</string>
+		<key>CcyNm</key>
+		<string>Syrian Pound</string>
+		<key>CtryNm</key>
+		<string>SYRIAN ARAB REPUBLIC</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TWD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>901</string>
+		<key>CcyNm</key>
+		<string>New Taiwan Dollar</string>
+		<key>CtryNm</key>
+		<string>TAIWAN, PROVINCE OF CHINA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TJS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>972</string>
+		<key>CcyNm</key>
+		<string>Somoni</string>
+		<key>CtryNm</key>
+		<string>TAJIKISTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TZS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>834</string>
+		<key>CcyNm</key>
+		<string>Tanzanian Shilling</string>
+		<key>CtryNm</key>
+		<string>TANZANIA, UNITED REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>THB</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>764</string>
+		<key>CcyNm</key>
+		<string>Baht</string>
+		<key>CtryNm</key>
+		<string>THAILAND</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>TIMOR-LESTE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XOF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>952</string>
+		<key>CcyNm</key>
+		<string>CFA Franc BCEAO</string>
+		<key>CtryNm</key>
+		<string>TOGO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>NZD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>554</string>
+		<key>CcyNm</key>
+		<string>New Zealand Dollar</string>
+		<key>CtryNm</key>
+		<string>TOKELAU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TOP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>776</string>
+		<key>CcyNm</key>
+		<string>Pa'92anga</string>
+		<key>CtryNm</key>
+		<string>TONGA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TTD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>780</string>
+		<key>CcyNm</key>
+		<string>Trinidad and Tobago Dollar</string>
+		<key>CtryNm</key>
+		<string>TRINIDAD AND TOBAGO</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TND</string>
+		<key>CcyMnrUnts</key>
+		<string>3</string>
+		<key>CcyNbr</key>
+		<string>788</string>
+		<key>CcyNm</key>
+		<string>Tunisian Dinar</string>
+		<key>CtryNm</key>
+		<string>TUNISIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TRY</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>949</string>
+		<key>CcyNm</key>
+		<string>Turkish Lira</string>
+		<key>CtryNm</key>
+		<string>TURKEY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>TMT</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>934</string>
+		<key>CcyNm</key>
+		<string>Turkmenistan New Manat</string>
+		<key>CtryNm</key>
+		<string>TURKMENISTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>TURKS AND CAICOS ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AUD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>036</string>
+		<key>CcyNm</key>
+		<string>Australian Dollar</string>
+		<key>CtryNm</key>
+		<string>TUVALU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>UGX</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>800</string>
+		<key>CcyNm</key>
+		<string>Uganda Shilling</string>
+		<key>CtryNm</key>
+		<string>UGANDA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>UAH</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>980</string>
+		<key>CcyNm</key>
+		<string>Hryvnia</string>
+		<key>CtryNm</key>
+		<string>UKRAINE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>AED</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>784</string>
+		<key>CcyNm</key>
+		<string>UAE Dirham</string>
+		<key>CtryNm</key>
+		<string>UNITED ARAB EMIRATES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>GBP</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>826</string>
+		<key>CcyNm</key>
+		<string>Pound Sterling</string>
+		<key>CtryNm</key>
+		<string>UNITED KINGDOM</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>UNITED STATES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USN</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>997</string>
+		<key>CcyNm</key>
+		<string>US Dollar (Next day)</string>
+		<key>CtryNm</key>
+		<string>UNITED STATES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>998</string>
+		<key>CcyNm</key>
+		<string>US Dollar (Same day)</string>
+		<key>CtryNm</key>
+		<string>UNITED STATES</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>UNITED STATES MINOR OUTLYING ISLANDS</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>UYI</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>940</string>
+		<key>CcyNm</key>
+		<string>Uruguay Peso en Unidades Indexadas (URUIURUI)</string>
+		<key>CtryNm</key>
+		<string>URUGUAY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>UYU</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>858</string>
+		<key>CcyNm</key>
+		<string>Peso Uruguayo</string>
+		<key>CtryNm</key>
+		<string>URUGUAY</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>UZS</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>860</string>
+		<key>CcyNm</key>
+		<string>Uzbekistan Sum</string>
+		<key>CtryNm</key>
+		<string>UZBEKISTAN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>VUV</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>548</string>
+		<key>CcyNm</key>
+		<string>Vatu</string>
+		<key>CtryNm</key>
+		<string>VANUATU</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>EUR</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>978</string>
+		<key>CcyNm</key>
+		<string>Euro</string>
+		<key>CtryNm</key>
+		<string>Vatican City State (HOLY SEE)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>VEF</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>937</string>
+		<key>CcyNm</key>
+		<string>Bolivar</string>
+		<key>CtryNm</key>
+		<string>VENEZUELA, BOLIVARIAN REPUBLIC OF</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>VND</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>704</string>
+		<key>CcyNm</key>
+		<string>Dong</string>
+		<key>CtryNm</key>
+		<string>VIET NAM</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>VIRGIN ISLANDS (BRITISH)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>USD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>840</string>
+		<key>CcyNm</key>
+		<string>US Dollar</string>
+		<key>CtryNm</key>
+		<string>VIRGIN ISLANDS (US)</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>XPF</string>
+		<key>CcyMnrUnts</key>
+		<string>0</string>
+		<key>CcyNbr</key>
+		<string>953</string>
+		<key>CcyNm</key>
+		<string>CFP Franc</string>
+		<key>CtryNm</key>
+		<string>WALLIS AND FUTUNA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>MAD</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>504</string>
+		<key>CcyNm</key>
+		<string>Moroccan Dirham</string>
+		<key>CtryNm</key>
+		<string>WESTERN SAHARA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>YER</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>886</string>
+		<key>CcyNm</key>
+		<string>Yemeni Rial</string>
+		<key>CtryNm</key>
+		<string>YEMEN</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ZMW</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>967</string>
+		<key>CcyNm</key>
+		<string>Zambian Kwacha</string>
+		<key>CtryNm</key>
+		<string>ZAMBIA</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+	<dict>
+		<key>Ccy</key>
+		<string>ZWL</string>
+		<key>CcyMnrUnts</key>
+		<string>2</string>
+		<key>CcyNbr</key>
+		<string>932</string>
+		<key>CcyNm</key>
+		<string>Zimbabwe Dollar</string>
+		<key>CtryNm</key>
+		<string>ZIMBABWE</string>
+		<key>text</key>
+		<string>
+</string>
+	</dict>
+</array>
+</plist>

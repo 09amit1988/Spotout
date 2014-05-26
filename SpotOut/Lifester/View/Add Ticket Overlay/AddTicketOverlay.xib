@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4510" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner">
+            <connections>
+                <outlet property="view" destination="x7I-Uo-DUQ" id="4ys-dn-IwS"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="x7I-Uo-DUQ" customClass="AddTicketOverlay">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" alpha="0.94999998807907104" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="black-background-i5.png" id="cPV-jv-gyW">
+                    <rect key="frame" x="0.0" y="-19" width="320" height="606"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="Zx3-Hr-lhw" customClass="TPKeyboardAvoidingScrollView">
+                    <rect key="frame" x="0.0" y="74" width="320" height="423"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" id="VQ9-Qa-hir" userLabel="Add Ticket">
+                            <rect key="frame" x="100" y="65" width="121" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="mqy-l9-oS5">
+                                    <rect key="frame" x="6" y="0.0" width="44" height="44"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="31"/>
+                                    <inset key="contentEdgeInsets" minX="0.0" minY="1" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal" image="price-plus-icon.png">
+                                        <color key="titleColor" red="0.34509803919999998" green="0.34901960780000002" blue="0.35686274509999999" alpha="1" colorSpace="deviceRGB"/>
+                                    </state>
+                                    <state key="highlighted" image="price-plus-icon.png"/>
+                                    <connections>
+                                        <action selector="btnAddTicketAction:" destination="x7I-Uo-DUQ" eventType="touchUpInside" id="Rvu-1P-5bK"/>
+                                    </connections>
+                                </button>
+                                <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="boG-ws-pze">
+                                    <rect key="frame" x="70" y="0.0" width="44" height="44"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="31"/>
+                                    <inset key="contentEdgeInsets" minX="0.0" minY="1" maxX="0.0" maxY="0.0"/>
+                                    <state key="normal" image="price-remove-icon.png">
+                                        <color key="titleColor" red="0.34509803919999998" green="0.34901960780000002" blue="0.35686274509999999" alpha="1" colorSpace="deviceRGB"/>
+                                    </state>
+                                    <state key="highlighted" image="price-remove-icon.png"/>
+                                    <connections>
+                                        <action selector="btnRemoveTicketAction:" destination="x7I-Uo-DUQ" eventType="touchUpInside" id="VQh-c6-8JN"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        </view>
+                    </subviews>
+                </scrollView>
+                <view contentMode="scaleToFill" id="bHT-7j-27V" userLabel="Done View">
+                    <rect key="frame" x="95" y="514" width="130" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <button alpha="0.75000000000000022" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="hA7-zk-3RE">
+                            <rect key="frame" x="0.0" y="0.0" width="130" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
+                            <state key="normal" title="Done" backgroundImage="Done_button.png">
+                                <color key="titleColor" red="0.34509803919999998" green="0.34901960780000002" blue="0.35686274509999999" alpha="1" colorSpace="deviceRGB"/>
+                            </state>
+                            <state key="highlighted" backgroundImage="Done_button.png"/>
+                            <connections>
+                                <action selector="btnDoneOverlayAction:" destination="x7I-Uo-DUQ" eventType="touchUpInside" id="5aw-o0-OuI"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="nt5-az-bkx" userLabel="Picker View">
+                    <rect key="frame" x="0.0" y="569" width="320" height="260"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="Vm5-50-jiy">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                            <items>
+                                <barButtonItem style="plain" systemItem="flexibleSpace" id="zHv-WA-YFf"/>
+                                <barButtonItem title="Cancel" id="C7O-5x-n0P">
+                                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <connections>
+                                        <action selector="btnPickerCancelAction:" destination="x7I-Uo-DUQ" id="tiS-Za-5kV"/>
+                                    </connections>
+                                </barButtonItem>
+                                <barButtonItem title="Done" id="JWn-lc-Nz2">
+                                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <connections>
+                                        <action selector="btnPickerDoneAction:" destination="x7I-Uo-DUQ" id="Gtj-pE-mxT"/>
+                                    </connections>
+                                </barButtonItem>
+                            </items>
+                            <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        </toolbar>
+                        <pickerView contentMode="scaleToFill" id="E7y-UA-wic">
+                            <rect key="frame" x="0.0" y="44" width="320" height="216"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <outlet property="dataSource" destination="x7I-Uo-DUQ" id="KUU-uH-0yG"/>
+                                <outlet property="delegate" destination="x7I-Uo-DUQ" id="FGv-Ri-HXE"/>
+                            </connections>
+                        </pickerView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <connections>
+                <outlet property="addTicketView" destination="VQ9-Qa-hir" id="Aov-Zg-zaj"/>
+                <outlet property="btnRemoveTicket" destination="boG-ws-pze" id="Scl-wX-5Z3"/>
+                <outlet property="picker" destination="E7y-UA-wic" id="ig6-zu-BtS"/>
+                <outlet property="pickerToolBar" destination="Vm5-50-jiy" id="5bE-ZQ-Nlg"/>
+                <outlet property="pickerView" destination="nt5-az-bkx" id="oP7-Jj-U7f"/>
+                <outlet property="scrollView" destination="Zx3-Hr-lhw" id="SPe-Fw-aSB"/>
+                <outlet property="toolBar" destination="yj9-g1-6Gb" id="h6F-Y9-VFY"/>
+                <outlet property="viewDoneButton" destination="bHT-7j-27V" id="UbI-sO-dSC"/>
+            </connections>
+        </view>
+        <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="yj9-g1-6Gb">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+            <items>
+                <barButtonItem style="plain" systemItem="flexibleSpace" id="RTH-w4-5g0"/>
+                <barButtonItem title="Done" id="C9U-IH-td9">
+                    <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <action selector="btnDoneHideKeyboardAction:" destination="x7I-Uo-DUQ" id="U4N-H8-a7v"/>
+                    </connections>
+                </barButtonItem>
+            </items>
+            <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+        </toolbar>
+        <view contentMode="scaleToFill" id="sbw-b6-LHk" userLabel="Ticket View">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="89"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="IWZ-me-YJt">
+                    <rect key="frame" x="0.0" y="0.0" width="300" height="89"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </imageView>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Ticket name 1" minimumFontSize="17" id="ANW-D5-p6l">
+                    <rect key="frame" x="6" y="8" width="274" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                    <connections>
+                        <outlet property="delegate" destination="x7I-Uo-DUQ" id="MQE-qB-I2A"/>
+                    </connections>
+                </textField>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Ticket Price" minimumFontSize="17" id="Kq8-Pn-dtB">
+                    <rect key="frame" x="11" y="52" width="175" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                    <connections>
+                        <outlet property="delegate" destination="x7I-Uo-DUQ" id="Q7C-sc-nPk"/>
+                    </connections>
+                </textField>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="line-content.png" id="koe-vF-U5V">
+                    <rect key="frame" x="39" y="45" width="261" height="1"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="6XG-Mz-Xbh">
+                    <rect key="frame" x="219" y="52" width="72" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                    <state key="normal" title="HRK">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Done_button.png" width="130" height="44"/>
+        <image name="black-background-i5.png" width="640" height="1136"/>
+        <image name="line-content.png" width="261" height="1"/>
+        <image name="price-plus-icon.png" width="44" height="44"/>
+        <image name="price-remove-icon.png" width="44" height="44"/>
+    </resources>
+</document>
